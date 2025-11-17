@@ -1,10 +1,25 @@
-# Terraform AWS Starter
+<p align="center">
+  <h1 align="center">Terraform AWS Starter</h1>
+</p>
 
-Production-ready Terraform boilerplate for AWS with VPC, EKS, ALB, and EC2 modules.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Production-ready+AWS+Infrastructure&font=Fira%20Code&center=true&width=500&height=50&color=FF9900&pause=1000" alt="Terraform AWS Starter">
+</p>
 
-[![Terraform](https://img.shields.io/badge/Terraform-1.0+-623CE4?logo=terraform)](https://www.terraform.io/)
-[![AWS Provider](https://img.shields.io/badge/AWS%20Provider-5.0+-FF9900?logo=amazon-aws)](https://registry.terraform.io/providers/hashicorp/aws/latest)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <a href="https://www.terraform.io/" alt="Terraform" title="Terraform 1.0+">
+    <img src="https://img.shields.io/badge/Terraform-1.0+-623CE4?logo=terraform&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://registry.terraform.io/providers/hashicorp/aws/latest" alt="AWS Provider" title="AWS Provider 5.0+">
+    <img src="https://img.shields.io/badge/AWS%20Provider-5.0+-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/></a>
+  <a href="LICENSE" alt="License" title="MIT License">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  Production-ready Terraform boilerplate for AWS with modular, reusable infrastructure components.
+</p>
+
+---
 
 ## 🚀 Quick Start
 
